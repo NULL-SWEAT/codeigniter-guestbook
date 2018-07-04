@@ -1,6 +1,6 @@
 </div>
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script type="text/javascript" src="<?= base_url('assets/js/materialize.min.js')?>"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
 <!-- Code for Materialize's mobile collapse button -->
 <script type="text/javascript">$(".button-collapse").sideNav();</script>
 </body>
